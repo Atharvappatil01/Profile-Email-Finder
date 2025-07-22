@@ -1,4 +1,3 @@
-
 # 📧 Profile Email Finder
 
 **Profile Email Finder** is a Python-based tool that uses the Google Custom Search API to discover publicly listed email addresses from online professional profiles (e.g., LinkedIn, academic pages) and exports the results to a clean Excel `.xlsx` file.
