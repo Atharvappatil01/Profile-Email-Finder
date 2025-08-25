@@ -87,8 +87,7 @@ You are responsible for how you use the data. Respect privacy, platform rules, a
 ## 👨‍💻 Author
 
 **Atharva Prakash Patil**  
-📫 apatil23@binghamton.edu  
-🔗 [LinkedIn](https://linkedin.com/in/your-link) | [GitHub](https://github.com/yourusername)
+📫 apatil23@binghamton.edu 
 
 ---
 
